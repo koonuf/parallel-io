@@ -1,0 +1,23 @@
+{
+  "name": "parallel-io",
+  "version": "1.0.0",
+  "description": "Very simple utility to make Node source code with parallel IO operations look better",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koonuf/parallel-io.git"
+  },
+  "keywords": [
+    "parallel",
+    "io"
+  ],
+  "author": "Konstantins Onufrijevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koonuf/parallel-io/issues"
+  },
+  "homepage": "https://github.com/koonuf/parallel-io"
+}
